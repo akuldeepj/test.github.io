@@ -1,0 +1,16 @@
+.btn-custom {
+    width: 400px;
+    height: 150px;
+    font-size: larger;
+  }
+
+p1{
+  font-size: 48px;
+  display: flex;
+  align-items: center;
+  margin: auto;
+  justify-content: center;
+  color :brown;
+
+
+}
